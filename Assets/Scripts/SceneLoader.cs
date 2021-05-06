@@ -9,23 +9,19 @@ public class SceneLoader : MonoBehaviour
     public Animator transition; // animaatio ruutujen siirtymiselle
     public float transitionTime = 4f; // ruutujen siirtymis aika
 
-    // Ruutujen siirtymät, 4 sekunnin viivellä
-    IEnumerator LoadScenesWithTransitions(int levelIndex)
-    {
-        //Kun painaa start
-        transition.SetTrigger("Start");
-
-        //Asetetaan loading
-        yield return new WaitForSeconds(transitionTime);
-
-        //Ladataan scene
-        SceneManager.LoadScene(levelIndex);
-    }
-
     public void LoadNextLevel()
     {
         // Ruudun siirtymät
         StartCoroutine(LoadScenesWithTransitions(SceneManager.GetActiveScene().buildIndex + 1));
+    }
+    IEnumerator LoadScenesWithTransitions(int levelIndex)
+    {
+        //Kun painaa start
+        transition.SetTrigger("Start");
+        //Asetetaan loading
+        yield return new WaitForSeconds(transitionTime);
+        //Ladataan scene
+        SceneManager.LoadScene(levelIndex);
     }
     public void LoadGame()
     {
