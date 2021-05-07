@@ -940,7 +940,7 @@ MonoBehaviour:
   m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1420, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -1609,6 +1609,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SceneLoader
+      objectReference: {fileID: 0}
+    - target: {fileID: 9166668116120982487, guid: fc682a59f405963418a53a8ab396a889,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc682a59f405963418a53a8ab396a889, type: 3}
