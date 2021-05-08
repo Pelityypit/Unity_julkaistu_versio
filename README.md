@@ -33,6 +33,7 @@ Joona Sorjonen: UX and UI desginer
 
 Built with: Unity
 Codebase: C#
+Published on [itch.io](https://itch.io/)
 
 ## Music
 
