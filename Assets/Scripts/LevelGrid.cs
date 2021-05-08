@@ -6,7 +6,7 @@ using CodeMonkey.Utils;
 
 public class LevelGrid
 {
-    public int minWidth = -20;
+    public int minWidth = -20; // oli 20 & 20
     public int maxWidth = 20; // Yhden lisää jotta käärme voi syntyä toiselta puolelta
     public int minHeight = -15;
     public int maxHeight = 15; // Yhden lisää jotta käärme voi syntyä toiselta puolelta
