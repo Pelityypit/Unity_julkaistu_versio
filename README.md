@@ -77,3 +77,7 @@ You are not allowed to commercially use Snake game or distribute it to third par
 ## Link to game
 
 [Snake](https://emiliajt.itch.io/snake)
+
+## Further development
+
+We had in mind for this project a bonus scene with trivia questions, but we couldn't get the questions and asnwers functionality working as intended, so the were left out from the final and published version
