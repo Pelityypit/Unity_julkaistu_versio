@@ -63,6 +63,13 @@ Explosion sound, escape death sound, bomb sound, bomb tick sound, by phoenix1291
 
 Turn and dying sound, by Mikko Linna
 
+## Sprites
+
+Snake body parts, by Blooming Pixels: https://opengameart.org/content/snake-sprite-sheet
+
+
+Fruits, by shiru8bit: https://opengameart.org/content/four-pixel-fruits
+
 ## License
 
 You are not allowed to commercially use Snake game or distribute it to third parties for their commercial use.
