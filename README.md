@@ -19,7 +19,7 @@ Janita Toivola: powerups, main menu, sound & visual effects, highscore, loading 
 
 Oskari Liimatta: camera, movement and sound
 
-Mikko Linna: Movements, audio, camera, grid, pause & game over windows
+Mikko Linna: movements, audio, camera, grid, pause & game over windows
 
 Joonas Ahonen: snake gameplay, general gameplay, UX
 
