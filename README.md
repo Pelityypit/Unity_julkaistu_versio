@@ -80,4 +80,4 @@ You are not allowed to commercially use Snake game or distribute it to third par
 
 ## Issues
 
-We had in mind for this project a bonus scene with trivia questions, but we couldn't get the questions and asnwers functionality working as intended, so the were left out from the final and published version
+We had in mind for this project a bonus scene with trivia questions, but we couldn't get the questions and asnwers functionality working as intended, so the were left out from the final and published version. Our efforts concerning the trivia questions can be found at our other repository Unity: https://github.com/Pelityypit/Unity
