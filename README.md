@@ -73,7 +73,8 @@ Fruits, by shiru8bit: https://opengameart.org/content/four-pixel-fruits
 ## License
 
 You are not allowed to commercially use Snake game or distribute it to third parties for their commercial use.
-The project code is awailable with  [MIT](https://choosealicense.com/licenses/mit/)
+
+The project code is awailable with  [MIT](https://choosealicense.com/licenses/mit/).
 
 ## Link to game
 
